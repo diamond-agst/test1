@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#root{
+    height: 100%;
+    background: linear-gradient(to bottom, #132634, #0E1627);
+}
+
+a{
+    text-decoration: none;
+}
